@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Datasets (Raw data ~328MB, re-download via download_dataset.py)
+data/raw/
+data/processed/
+
+# IDE and System files
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Logs and scratch
+*.log
+scratch/

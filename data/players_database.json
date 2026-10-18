@@ -1,0 +1,456 @@
+{
+  "Courtois": {
+    "name": "Thibaut Courtois",
+    "full_name": "Thibaut Nicolas Marc Courtois",
+    "nationality": "Bỉ (Belgium)",
+    "flag": "🇧🇪",
+    "club": "Real Madrid CF",
+    "league": "La Liga (Tây Ban Nha)",
+    "position": "Thủ môn (Goalkeeper - GK)",
+    "jersey_number": 1,
+    "date_of_birth": "1992-05-11",
+    "age": 32,
+    "height": "2.00 m (6 ft 7 in)",
+    "weight": "96 kg",
+    "preferred_foot": "Trái (Left)",
+    "market_value": "28,000,000 €",
+    "fifa_rating": 89,
+    "stats": {
+      "GK Diving / Bay người": 88,
+      "GK Handling / Bắt bóng": 89,
+      "GK Kicking / Phát bóng": 76,
+      "GK Reflexes / Phản xạ": 90,
+      "GK Speed / Tốc độ": 46,
+      "GK Positioning / Vị trí": 89
+    },
+    "general_stats": {
+      "Pace / Tốc độ": 46,
+      "Shooting / Sút": 20,
+      "Passing / Chuyền": 76,
+      "Dribbling / Rê bóng": 30,
+      "Defending / Phòng ngự": 90,
+      "Physical / Thể lực": 85
+    },
+    "trophies": [
+      "UEFA Champions League (2022, 2024)",
+      "La Liga (2020, 2022, 2024)",
+      "Premier League (2015, 2017)",
+      "FIFA Club World Cup (2018, 2022)",
+      "Găng tay vàng World Cup 2018 (Golden Glove)"
+    ],
+    "bio": "Thibaut Courtois là một trong những thủ môn xuất sắc nhất thế giới của thế hệ hiện đại, nổi tiếng với chiều cao 2m lý tưởng, sải tay dài vô tận và những pha cứu thua xuất thần ở các trận chung kết lớn."
+  },
+  "Dybala": {
+    "name": "Paulo Dybala",
+    "full_name": "Paulo Exequiel Dybala",
+    "nationality": "Argentina",
+    "flag": "🇦🇷",
+    "club": "AS Roma",
+    "league": "Serie A (Ý)",
+    "position": "Tiền đạo lùi / Tiền vệ tấn công (SS / CAM / RW)",
+    "jersey_number": 21,
+    "date_of_birth": "1993-11-15",
+    "age": 31,
+    "height": "1.77 m (5 ft 10 in)",
+    "weight": "75 kg",
+    "preferred_foot": "Trái (Left)",
+    "market_value": "20,000,000 €",
+    "fifa_rating": 86,
+    "stats": {
+      "Pace / Tốc độ": 80,
+      "Shooting / Sút": 85,
+      "Passing / Chuyền": 86,
+      "Dribbling / Rê bóng": 90,
+      "Defending / Phòng ngự": 40,
+      "Physical / Thể lực": 62
+    },
+    "general_stats": {
+      "Pace / Tốc độ": 80,
+      "Shooting / Sút": 85,
+      "Passing / Chuyền": 86,
+      "Dribbling / Rê bóng": 90,
+      "Defending / Phòng ngự": 40,
+      "Physical / Thể lực": 62
+    },
+    "trophies": [
+      "FIFA World Cup (2022)",
+      "Serie A (5 lần: 2016, 2017, 2018, 2019, 2020)",
+      "Coppa Italia (4 lần: 2016, 2017, 2018, 2021)",
+      "Cầu thủ xuất sắc nhất Serie A (2019-2020)",
+      "CONMEBOL–UEFA Cup of Champions (Finalissima 2022)"
+    ],
+    "bio": "Paulo Dybala, biệt danh 'La Joya' (Viên ngọc quý), là ngôi sao bóng đá người Argentina sở hữu kỹ thuật cá nhân điêu luyện, cái chân trái ma thuật và khả năng tạo đột biến từ những cú sút xa và đá phạt."
+  },
+  "Mbappe": {
+    "name": "Kylian Mbappé",
+    "full_name": "Kylian Mbappé Lottin",
+    "nationality": "Pháp (France)",
+    "flag": "🇫🇷",
+    "club": "Real Madrid CF",
+    "league": "La Liga (Tây Ban Nha)",
+    "position": "Tiền đạo cắm / Tiền đạo cánh (ST / LW)",
+    "jersey_number": 9,
+    "date_of_birth": "1998-12-20",
+    "age": 26,
+    "height": "1.78 m (5 ft 10 in)",
+    "weight": "75 kg",
+    "preferred_foot": "Phải (Right)",
+    "market_value": "180,000,000 €",
+    "fifa_rating": 91,
+    "stats": {
+      "Pace / Tốc độ": 97,
+      "Shooting / Sút": 90,
+      "Passing / Chuyền": 80,
+      "Dribbling / Rê bóng": 92,
+      "Defending / Phòng ngự": 36,
+      "Physical / Thể lực": 78
+    },
+    "general_stats": {
+      "Pace / Tốc độ": 97,
+      "Shooting / Sút": 90,
+      "Passing / Chuyền": 80,
+      "Dribbling / Rê bóng": 92,
+      "Defending / Phòng ngự": 36,
+      "Physical / Thể lực": 78
+    },
+    "trophies": [
+      "FIFA World Cup Champion (2018) & Á quân (2022)",
+      "Chiếc giày vàng FIFA World Cup 2022 (Golden Boot - 8 bàn)",
+      "Ligue 1 (7 lần: 2017, 2018, 2019, 2020, 2022, 2023, 2024)",
+      "UEFA Nations League (2021)",
+      "Vua phá lưới Ligue 1 (6 mùa liên tiếp)"
+    ],
+    "bio": "Kylian Mbappé là một trong những tiền đạo nhanh nhất và nguy hiểm nhất thế giới, nổi tiếng với khả năng bứt tốc xé gió, kỹ năng dứt điểm lạnh lùng và bản lĩnh thi đấu tại các trận cầu lớn."
+  },
+  "Messi": {
+    "name": "Lionel Messi",
+    "full_name": "Lionel Andrés Messi Cuccittini",
+    "nationality": "Argentina",
+    "flag": "🇦🇷",
+    "club": "Inter Miami CF",
+    "league": "Major League Soccer (MLS - Mỹ)",
+    "position": "Tiền đạo cánh / Tiền vệ kiến thiết (RW / CF / CAM)",
+    "jersey_number": 10,
+    "date_of_birth": "1987-06-24",
+    "age": 37,
+    "height": "1.70 m (5 ft 7 in)",
+    "weight": "72 kg",
+    "preferred_foot": "Trái (Left)",
+    "market_value": "30,000,000 €",
+    "fifa_rating": 88,
+    "stats": {
+      "Pace / Tốc độ": 80,
+      "Shooting / Sút": 89,
+      "Passing / Chuyền": 90,
+      "Dribbling / Rê bóng": 94,
+      "Defending / Phòng ngự": 34,
+      "Physical / Thể lực": 64
+    },
+    "general_stats": {
+      "Pace / Tốc độ": 80,
+      "Shooting / Sút": 89,
+      "Passing / Chuyền": 90,
+      "Dribbling / Rê bóng": 94,
+      "Defending / Phòng ngự": 34,
+      "Physical / Thể lực": 64
+    },
+    "trophies": [
+      "8 Quả bóng Vàng (Ballon d'Or: 2009, 2010, 2011, 2012, 2015, 2019, 2021, 2023)",
+      "FIFA World Cup Champion (2022)",
+      "Copa América Champion (2021, 2024)",
+      "UEFA Champions League (4 lần: 2006, 2009, 2011, 2015)",
+      "La Liga (10 lần)",
+      "Chiếc giày Vàng châu Âu (6 lần)"
+    ],
+    "bio": "Lionel Messi (El Pulga) được công nhận rộng rãi là một trong những cầu thủ vĩ đại nhất lịch sử túc cầu nhân loại (GOAT), sở hữu nhãn quan chiến thuật phi thường, khả năng rê bóng siêu hạng và kỷ lục 8 Quả bóng Vàng."
+  },
+  "Neymar": {
+    "name": "Neymar Jr",
+    "full_name": "Neymar da Silva Santos Júnior",
+    "nationality": "Brazil",
+    "flag": "🇧🇷",
+    "club": "Al Hilal SFC",
+    "league": "Saudi Pro League (Ả Rập Xê Út)",
+    "position": "Tiền đạo cánh trái / Hộ công (LW / CAM)",
+    "jersey_number": 10,
+    "date_of_birth": "1992-02-05",
+    "age": 33,
+    "height": "1.75 m (5 ft 9 in)",
+    "weight": "68 kg",
+    "preferred_foot": "Cả hai (Phải 5/5)",
+    "market_value": "30,000,000 €",
+    "fifa_rating": 87,
+    "stats": {
+      "Pace / Tốc độ": 86,
+      "Shooting / Sút": 83,
+      "Passing / Chuyền": 85,
+      "Dribbling / Rê bóng": 93,
+      "Defending / Phòng ngự": 37,
+      "Physical / Thể lực": 61
+    },
+    "general_stats": {
+      "Pace / Tốc độ": 86,
+      "Shooting / Sút": 83,
+      "Passing / Chuyền": 85,
+      "Dribbling / Rê bóng": 93,
+      "Defending / Phòng ngự": 37,
+      "Physical / Thể lực": 61
+    },
+    "trophies": [
+      "UEFA Champions League (2015 cùng Barcelona)",
+      "FIFA Club World Cup (2015)",
+      "La Liga (2015, 2016)",
+      "Ligue 1 (5 lần: 2018, 2019, 2020, 2022, 2023)",
+      "Huy chương Vàng Olympic Rio (2016)",
+      "Chân sút số 1 lịch sử Đội tuyển Brazil (79 bàn)"
+    ],
+    "bio": "Neymar Jr là biểu tượng bóng đá đường phố Samba Brazil, sở hữu lối đá ngẫu hứng, kỹ năng 'lắc bóng' vượt qua đối thủ đầy ma thuật cùng khả năng tạo cơ hội xuất sắc cho đồng đội."
+  },
+  "Ronaldo": {
+    "name": "Cristiano Ronaldo",
+    "full_name": "Cristiano Ronaldo dos Santos Aveiro",
+    "nationality": "Bồ Đào Nha (Portugal)",
+    "flag": "🇵🇹",
+    "club": "Al Nassr FC",
+    "league": "Saudi Pro League (Ả Rập Xê Út)",
+    "position": "Tiền đạo cắm (ST / LW)",
+    "jersey_number": 7,
+    "date_of_birth": "1985-02-05",
+    "age": 40,
+    "height": "1.87 m (6 ft 2 in)",
+    "weight": "85 kg",
+    "preferred_foot": "Phải (Right)",
+    "market_value": "15,000,000 €",
+    "fifa_rating": 86,
+    "stats": {
+      "Pace / Tốc độ": 81,
+      "Shooting / Sút": 92,
+      "Passing / Chuyền": 78,
+      "Dribbling / Rê bóng": 84,
+      "Defending / Phòng ngự": 34,
+      "Physical / Thể lực": 77
+    },
+    "general_stats": {
+      "Pace / Tốc độ": 81,
+      "Shooting / Sút": 92,
+      "Passing / Chuyền": 78,
+      "Dribbling / Rê bóng": 84,
+      "Defending / Phòng ngự": 34,
+      "Physical / Thể lực": 77
+    },
+    "trophies": [
+      "5 Quả bóng Vàng (Ballon d'Or: 2008, 2013, 2014, 2016, 2017)",
+      "UEFA Champions League (5 lần: 2008, 2014, 2016, 2017, 2018)",
+      "UEFA Euro Champion (2016)",
+      "UEFA Nations League (2019)",
+      "Premier League (3), La Liga (2), Serie A (2)",
+      "Cầu thủ ghi nhiều bàn thắng chính thức nhất lịch sử (900+ bàn)"
+    ],
+    "bio": "Cristiano Ronaldo (CR7) là biểu tượng của tinh thần kỷ luật thép, ý chí vươn lên và cỗ máy săn bàn vĩ đại nhất lịch sử túc cầu thế giới, lập kỷ lục phá lưới ở cả cấp CLB lẫn Đội tuyển quốc gia."
+  },
+  "Salah": {
+    "name": "Mohamed Salah",
+    "full_name": "Mohamed Salah Hamed Mahrous Ghaly",
+    "nationality": "Ai Cập (Egypt)",
+    "flag": "🇪🇬",
+    "club": "Liverpool FC",
+    "league": "Premier League (Anh)",
+    "position": "Tiền đạo cánh phải (RW)",
+    "jersey_number": 11,
+    "date_of_birth": "1992-06-15",
+    "age": 32,
+    "height": "1.75 m (5 ft 9 in)",
+    "weight": "71 kg",
+    "preferred_foot": "Trái (Left)",
+    "market_value": "55,000,000 €",
+    "fifa_rating": 89,
+    "stats": {
+      "Pace / Tốc độ": 89,
+      "Shooting / Sút": 87,
+      "Passing / Chuyền": 82,
+      "Dribbling / Rê bóng": 88,
+      "Defending / Phòng ngự": 45,
+      "Physical / Thể lực": 76
+    },
+    "general_stats": {
+      "Pace / Tốc độ": 89,
+      "Shooting / Sút": 87,
+      "Passing / Chuyền": 82,
+      "Dribbling / Rê bóng": 88,
+      "Defending / Phòng ngự": 45,
+      "Physical / Thể lực": 76
+    },
+    "trophies": [
+      "UEFA Champions League (2019)",
+      "Premier League (2020)",
+      "FIFA Club World Cup (2019)",
+      "Vua phá lưới Premier League (Golden Boot: 2018, 2019, 2022)",
+      "Cầu thủ xuất sắc nhất PFA (2018, 2022)"
+    ],
+    "bio": "Mohamed Salah, biệt danh 'The Egyptian King' (Vua Ai Cập), là một trong những tiền đạo cánh phải sắc bén nhất giải Ngoại hạng Anh, sở hữu tốc độ xé gió, kỹ năng cứa lòng chân trái trứ danh và hiệu suất ghi bàn đều đặn."
+  },
+  "De_Bruyne": {
+    "name": "Kevin De Bruyne",
+    "full_name": "Kevin De Bruyne",
+    "nationality": "Bỉ (Belgium)",
+    "flag": "🇧🇪",
+    "club": "Manchester City FC",
+    "league": "Premier League (Anh)",
+    "position": "Tiền vệ kiến thiết trung tâm (CM / CAM)",
+    "jersey_number": 17,
+    "date_of_birth": "1991-06-28",
+    "age": 33,
+    "height": "1.81 m (5 ft 11 in)",
+    "weight": "70 kg",
+    "preferred_foot": "Phải (Right - 5/5 Weak Foot)",
+    "market_value": "50,000,000 €",
+    "fifa_rating": 90,
+    "stats": {
+      "Pace / Tốc độ": 72,
+      "Shooting / Sút": 87,
+      "Passing / Chuyền": 94,
+      "Dribbling / Rê bóng": 87,
+      "Defending / Phòng ngự": 65,
+      "Physical / Thể lực": 78
+    },
+    "general_stats": {
+      "Pace / Tốc độ": 72,
+      "Shooting / Sút": 87,
+      "Passing / Chuyền": 94,
+      "Dribbling / Rê bóng": 87,
+      "Defending / Phòng ngự": 65,
+      "Physical / Thể lực": 78
+    },
+    "trophies": [
+      "UEFA Champions League (2023 - Cú ăn ba lịch sử)",
+      "Premier League (6 lần: 2018, 2019, 2021, 2022, 2023, 2024)",
+      "Cầu thủ xuất sắc nhất mùa giải Premier League (2020, 2022)",
+      "Vua kiến tạo Premier League (4 mùa giải)",
+      "Hạng 3 World Cup 2018"
+    ],
+    "bio": "Kevin De Bruyne là một trong những tiền vệ kiến thiết xuất sắc nhất lịch sử bóng đá thế giới, nổi tiếng với những đường chuyền 'mắt thần', khả năng sút xa uy lực bằng cả hai chân và sự nhạy bén chiến thuật đỉnh cao."
+  },
+  "Haaland": {
+    "name": "Erling Haaland",
+    "full_name": "Erling Braut Haaland",
+    "nationality": "Na Uy (Norway)",
+    "flag": "🇳🇴",
+    "club": "Manchester City FC",
+    "league": "Premier League (Anh)",
+    "position": "Tiền đạo cắm (ST)",
+    "jersey_number": 9,
+    "date_of_birth": "2000-07-21",
+    "age": 24,
+    "height": "1.95 m (6 ft 5 in)",
+    "weight": "88 kg",
+    "preferred_foot": "Trái (Left)",
+    "market_value": "180,000,000 €",
+    "fifa_rating": 91,
+    "stats": {
+      "Pace / Tốc độ": 89,
+      "Shooting / Sút": 93,
+      "Passing / Chuyền": 66,
+      "Dribbling / Rê bóng": 80,
+      "Defending / Phòng ngự": 45,
+      "Physical / Thể lực": 88
+    },
+    "general_stats": {
+      "Pace / Tốc độ": 89,
+      "Shooting / Sút": 93,
+      "Passing / Chuyền": 66,
+      "Dribbling / Rê bóng": 80,
+      "Defending / Phòng ngự": 45,
+      "Physical / Thể lực": 88
+    },
+    "trophies": [
+      "UEFA Champions League (2023)",
+      "Premier League (2023, 2024)",
+      "Chiếc giày Vàng châu Âu (European Golden Shoe 2023)",
+      "Kỷ lục ghi bàn nhiều nhất một mùa Premier League (36 bàn/38 trận)",
+      "Cầu thủ xuất sắc nhất UEFA (2023)"
+    ],
+    "bio": "Erling Haaland là một cỗ máy ghi bàn nguyên tử thế hệ mới, kết hợp giữa thể hình hộ pháp 1m95, tốc độ xé gió và bản năng đánh hơi bàn thắng sắc bén trong vòng cấm."
+  },
+  "Kross": {
+    "name": "Toni Kroos",
+    "full_name": "Toni Kroos",
+    "nationality": "Đức (Germany)",
+    "flag": "🇩🇪",
+    "club": "Real Madrid CF (Huyền thoại)",
+    "league": "La Liga (Tây Ban Nha)",
+    "position": "Tiền vệ trung tâm (CM / CDM)",
+    "jersey_number": 8,
+    "date_of_birth": "1990-01-04",
+    "age": 34,
+    "height": "1.83 m (6 ft 0 in)",
+    "weight": "76 kg",
+    "preferred_foot": "Cả hai (5/5 Weak Foot)",
+    "market_value": "Giải nghệ (Huyền thoại)",
+    "fifa_rating": 89,
+    "stats": {
+      "Pace / Tốc độ": 53,
+      "Shooting / Sút": 81,
+      "Passing / Chuyền": 95,
+      "Dribbling / Rê bóng": 81,
+      "Defending / Phòng ngự": 72,
+      "Physical / Thể lực": 68
+    },
+    "general_stats": {
+      "Pace / Tốc độ": 53,
+      "Shooting / Sút": 81,
+      "Passing / Chuyền": 95,
+      "Dribbling / Rê bóng": 81,
+      "Defending / Phòng ngự": 72,
+      "Physical / Thể lực": 68
+    },
+    "trophies": [
+      "FIFA World Cup Champion (2014)",
+      "UEFA Champions League (6 lần: 2013, 2016, 2017, 2018, 2022, 2024)",
+      "La Liga (4 lần: 2017, 2020, 2022, 2024)",
+      "Bundesliga (3 lần: 2008, 2013, 2014)",
+      "FIFA Club World Cup (6 lần)"
+    ],
+    "bio": "Toni Kroos là 'kiến trúc sư' vĩ đại của tuyến tiền vệ, được mệnh danh là 'cỗ máy chuyền bóng chuẩn xác như một chiếc đồng hồ Thụy Sĩ' với tỉ lệ chuyền bóng chính xác luôn vượt trên 94%."
+  },
+  "Pogba": {
+    "name": "Paul Pogba",
+    "full_name": "Paul Labilé Pogba",
+    "nationality": "Pháp (France)",
+    "flag": "🇫🇷",
+    "club": "Juventus FC",
+    "league": "Serie A (Ý)",
+    "position": "Tiền vệ trung tâm / Hộ công (CM / CAM)",
+    "jersey_number": 10,
+    "date_of_birth": "1993-03-15",
+    "age": 32,
+    "height": "1.91 m (6 ft 3 in)",
+    "weight": "84 kg",
+    "preferred_foot": "Phải (Right)",
+    "market_value": "10,000,000 €",
+    "fifa_rating": 85,
+    "stats": {
+      "Pace / Tốc độ": 67,
+      "Shooting / Sút": 80,
+      "Passing / Chuyền": 86,
+      "Dribbling / Rê bóng": 87,
+      "Defending / Phòng ngự": 65,
+      "Physical / Thể lực": 82
+    },
+    "general_stats": {
+      "Pace / Tốc độ": 67,
+      "Shooting / Sút": 80,
+      "Passing / Chuyền": 86,
+      "Dribbling / Rê bóng": 87,
+      "Defending / Phòng ngự": 65,
+      "Physical / Thể lực": 82
+    },
+    "trophies": [
+      "FIFA World Cup Champion (2018)",
+      "UEFA Nations League (2021)",
+      "UEFA Europa League (2017)",
+      "Serie A (4 lần liên tiếp: 2013, 2014, 2015, 2016)",
+      "Cầu thủ trẻ xuất sắc nhất World Cup 2014 (Best Young Player)"
+    ],
+    "bio": "Paul Pogba là một trong những tiền vệ tài hoa nhất bóng đá Pháp, kết hợp giữa thể hình hộ pháp, kỹ thuật nhảy múa uyển chuyển và những đường phất bóng dài vượt tuyến có độ chính xác kinh ngạc."
+  }
+}

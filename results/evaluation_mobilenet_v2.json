@@ -1,0 +1,160 @@
+{
+  "model_type": "mobilenet_v2",
+  "checkpoint": "checkpoints/best_mobilenet_v2.pth",
+  "test_accuracy": 0.9260355029585798,
+  "classification_report": {
+    "Courtois": {
+      "precision": 0.9375,
+      "recall": 0.9375,
+      "f1-score": 0.9375,
+      "support": 48.0
+    },
+    "Cristiano Ronaldo": {
+      "precision": 0.7962962962962963,
+      "recall": 0.9555555555555556,
+      "f1-score": 0.8686868686868687,
+      "support": 45.0
+    },
+    "Dybala": {
+      "precision": 0.926829268292683,
+      "recall": 0.8260869565217391,
+      "f1-score": 0.8735632183908046,
+      "support": 46.0
+    },
+    "Kross": {
+      "precision": 0.9777777777777777,
+      "recall": 0.9777777777777777,
+      "f1-score": 0.9777777777777777,
+      "support": 45.0
+    },
+    "Lionel Messi": {
+      "precision": 0.9782608695652174,
+      "recall": 0.8823529411764706,
+      "f1-score": 0.9278350515463918,
+      "support": 51.0
+    },
+    "Mohamed Salah": {
+      "precision": 0.9791666666666666,
+      "recall": 0.9791666666666666,
+      "f1-score": 0.9791666666666666,
+      "support": 48.0
+    },
+    "Neymar": {
+      "precision": 1.0,
+      "recall": 0.7,
+      "f1-score": 0.8235294117647058,
+      "support": 10.0
+    },
+    "Pogba": {
+      "precision": 0.8979591836734694,
+      "recall": 0.9777777777777777,
+      "f1-score": 0.9361702127659575,
+      "support": 45.0
+    },
+    "accuracy": 0.9260355029585798,
+    "macro avg": {
+      "precision": 0.9367237577840137,
+      "recall": 0.9045272094344985,
+      "f1-score": 0.9155286509498967,
+      "support": 338.0
+    },
+    "weighted avg": {
+      "precision": 0.9312631576565945,
+      "recall": 0.9260355029585798,
+      "f1-score": 0.9259093445499029,
+      "support": 338.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      45,
+      2,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      43,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      7,
+      38,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      44,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      2,
+      2,
+      0,
+      45,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      47,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      7,
+      2
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      44
+    ]
+  ],
+  "class_names": [
+    "Courtois",
+    "Cristiano Ronaldo",
+    "Dybala",
+    "Kross",
+    "Lionel Messi",
+    "Mohamed Salah",
+    "Neymar",
+    "Pogba"
+  ]
+}
